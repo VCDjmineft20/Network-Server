@@ -1,0 +1,7 @@
+metrics: true
+port: 4128
+ip: 10.0.0.12
+username: vcdcraft
+password: 2000
+demo: false
+api_key: wDcPXnugdFjBIEOpBkgMAcCQbEwN058JtNkgsrv7PlLv6131B93VFgrLqRhikaDO

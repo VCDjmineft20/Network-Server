@@ -1,28 +1,13 @@
 lastAccountName: VCDjmineft20
 timestamps:
-  login: 1471321471873
-  lastteleport: 1471322187205
-  logout: 1471322572833
+  login: 1471485809322
+  logout: 1471467780871
 ipAddress: 10.0.0.12
-lastlocation:
-  world: world
-  x: 1753.472391576181
-  y: 5.0
-  z: 192.20983639294056
-  yaw: -88.34515
-  pitch: 30.449705
-homes:
-  home:
-    world: world
-    x: 1751.5791443052508
-    y: 6.0
-    z: 192.50327176856592
-    yaw: -358.6455
-    pitch: 19.799652
+money: '-9975'
 logoutlocation:
   world: world
-  x: 1753.5663633094605
-  y: 5.0
-  z: 191.2418336565674
-  yaw: 254.40094
-  pitch: 35.69949
+  x: -1521.988899587704
+  y: 115.99657407350283
+  z: 712.4277429124522
+  yaw: 190.58186
+  pitch: 14.099777

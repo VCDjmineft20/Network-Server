@@ -1,0 +1,6 @@
+# 
+# This is the message displayed to player when banned.
+banMSG: '&a(&cExotic&4BANS&a)&b %reason%'
+banBROAD: '&a(&cExotic&4BANS&a)&b &6%player% &bwas banned by &6%admin%&b for &6%reason%'
+kickMSG: '&a(&cExotic&4BANS&a)&b %reason%'
+kickBROAD: '&a(&cExotic&4BANS&a)&b &6%player% &bwas kicked by &6%admin%&b for &6%reason%'

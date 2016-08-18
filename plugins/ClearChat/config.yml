@@ -1,4 +1,9 @@
-ClearChat:
-  Prefix: '&7[&6ClearChat&7] '
-  Nachricht: '&7Der globale Chat wurde von &6[Player] &7geleert.'
-  Fehler: '&7Du hast keine Berechtigung um den Chat zu leeren.'
+use-permission: clearchat.use
+local-permission: clearchat.local
+global-permission: clearchat.global
+reload-permission: clearchat.reload
+no-permission: '&7[&9Clear&6Chat&7]&c You do not have permission to use this command.'
+reload-message: '&7[&9Clear&6Chat&7]&a The plugin has been reloaded.'
+global-clear: '&7[&9Clear&6Chat&7]&f The chat has been cleared by %Player%.'
+local-clear: '&7[&9Clear&6Chat&7]&f You have cleared your chat.'
+invalid-args: '&7[&9Clear&6Chat&7]&f That arg is invalid. Use the CC command for help.'

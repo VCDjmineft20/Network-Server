@@ -1,0 +1,21 @@
+Prefix: '&7[&cANC&7] &f'
+NoPermissions: You don't have permmission to execute this command.
+StartReloadingConfigs: Reloading configurations... Please wait.
+StopReloadingConfigs: Successfully reloaded configurations.
+YouMustBeAPlayer: You have to be a player.
+PlayerNotFound: Player {player} not found.
+OpenMenu: Successfully opened menu
+AdsNotAllowed: Advertising is forbidden. Please stop.
+Playerstriedmakeadvertising: Player {player} tried advertising.
+CommandBlocked: The command was blocked.
+DetectMessage: '{player} failed {hack}/{module}: {subInformations}'
+KickMessage: '{player} kicked because detect {hack} by {module}: {subInformations}'
+KickScreen: |-
+  {prefix}
+  &eHACK DETECTED
+  &7Module:&c {module}
+  &7Hack:&c {hack}
+KickScreenIpBlocked: |-
+  {prefix}
+  &cYour Ip was Blocked.
+YAxisFlyHacking: Fly hacking on the y-axis detected. Wait a few seconds so you can jump.

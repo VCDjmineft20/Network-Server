@@ -1,0 +1,20 @@
+enabled: true
+debug: false
+prefix: '&8[&6EnderContainers&8] &7'
+locale: en
+enderchests:
+  max: 27
+  default: 1
+mysql:
+  enabled: false
+  host: localhost
+  port: 3306
+  user: root
+  password: ''
+  database: default
+  tablePrefix: ec_
+others:
+  blocknametag: false
+  openingChestSound: CHEST_OPEN
+  closingChestSound: CHEST_CLOSE
+  updateChecker: true
